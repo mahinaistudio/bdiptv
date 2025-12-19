@@ -22,14 +22,14 @@ You can use the playlist directly in your IPTV player using **Direct URL** below
 
 👉 **Download M3U Playlist**
 
-**[iptv.m3u](https://raw.githubusercontent.com/mahinaistudio/tv-channel/refs/heads/main/iptv.m3u)**
+**[iptv.m3u](https://raw.githubusercontent.com/mahinaistudio/bdiptv/refs/heads/main/iptv.m3u)**
 
 _Right-click and select **“Save as…”** to download the file._
 
 👉 **Direct URL**
 
 ```
-https://raw.githubusercontent.com/mahinaistudio/tv-channel/refs/heads/main/iptv.m3u
+https://raw.githubusercontent.com/mahinaistudio/bdiptv/refs/heads/main/iptv.m3u
 ```
 ## IPTV Players
 
